@@ -14,6 +14,6 @@ Below we have the principal technologies used: <br><br>
 
 ### :bust_in_silhouette: Author
 
-<a href="http://www.linkedin.com/in/pmarcosfelipe](http://www.linkedin.com/in/pmarcosfelipe" target="_blank">
+<a href="http://www.linkedin.com/in/pmarcosfelipe" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
