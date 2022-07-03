@@ -53,7 +53,7 @@ export function Player(props: PlayerProps) {
       </div>
     );
   }
-  console.log(data);
+
   return (
     <div className="flex-1">
       <div className="bg-black flex justify-center">
