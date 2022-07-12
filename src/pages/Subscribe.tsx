@@ -25,14 +25,16 @@ export function Subscribe() {
         <div className="max-w-[640px]">
           <Logo />
           <h1 className="mt-8 text-[2.5rem] leading-tight">
-            Construa uma{' '}
-            <strong className="text-blue-500">aplicação completa</strong>, do
-            zero, com <strong className="text-blue-500">React </strong>
+            An <strong className="text-blue-500">Event Platform</strong>{' '}
+            application
           </h1>
           <p className="mt-4 text-gray-200 leading-relaxed">
-            Em apenas uma semana você vai dominar na prática uma das tecnologias
-            mais utilizadas e com alta demanda para acessar as melhores
-            oportunidades do mercado.
+            An Event Platform application developed using
+            <strong className="text-blue-500"> ViteJS</strong>,
+            <strong className="text-blue-500"> React,</strong>
+            <strong className="text-blue-500"> Typescript</strong> in the
+            front-end and integrated with{' '}
+            <strong className="text-blue-500">GraphQL</strong> in the back-end.
           </p>
         </div>
 
@@ -68,11 +70,7 @@ export function Subscribe() {
           </form>
         </div>
       </div>
-      <img
-        src={CodeMockUp}
-        className="mt-10"
-        alt="Code Mockup"
-      />
+      <img src={CodeMockUp} className="mt-10" alt="Code Mockup" />
     </div>
   );
 }
