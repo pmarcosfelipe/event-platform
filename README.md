@@ -4,10 +4,11 @@
 
 <br>
 
-This project aims to implement an Event Platform application using [ViteJS](https://vitejs.dev/) with Typescript ReactJS template in the front-end and [GraphQL](https://graphql.org/) in the back-end.
+This project aims to implement an Event Platform application using [ViteJS](https://vitejs.dev/), [React](https://reactjs.org/) and [Typescript](https://www.typescriptlang.org/) in the front-end and [GraphQL](https://graphql.org/) in the back-end.
 
 Below we have the principal technologies used: <br><br>
 :heavy_check_mark: [ViteJS](https://vitejs.dev/)<br>
+:heavy_check_mark: [React](https://reactjs.org/)<br>
 :heavy_check_mark: [Typescript](https://www.typescriptlang.org/)<br>
 :heavy_check_mark: [TailwindCSS](https://tailwindcss.com/)<br>
 :heavy_check_mark: [GraphQL](https://graphql.org/)<br>
